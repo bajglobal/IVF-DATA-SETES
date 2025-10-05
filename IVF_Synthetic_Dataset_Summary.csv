@@ -1,0 +1,10 @@
+metric,value
+n,2000
+live_birth_rate,0.2065
+age_mean,35.214245
+age_sd,4.742218473
+bmi_mean,25.02834
+bmi_sd,3.854379284
+amh_median,1.33
+amh_iqr_low,0.56
+amh_iqr_high,2.81
